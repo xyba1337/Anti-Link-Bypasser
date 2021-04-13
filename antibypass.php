@@ -5,7 +5,7 @@ function checkforbypass($check_for_header)
 {
     $check_for_header;
 
-    $result1 = "https://rscripts.net/workspace/ab/checkpoint";
+    $result1 = "https://example.com/checkpoint";
     $result2 = "Bypassed... why not give money men";
 
     if (($check_for_header !== false)) {
