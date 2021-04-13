@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$minutes = 1;//change to your likings.
+$minutes = 2;//change to your likings.
 $convert_minutes = $minutes * 60;
 ini_set('session.gc_maxlifetime', $convert_minutes); // set the session max lifetime to 2 minutes
 
