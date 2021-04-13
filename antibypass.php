@@ -22,4 +22,4 @@ function checkforbypass($check_for_header)
     }
 }
 
-checkforbypass(strpos($_SERVER["HTTP_REFERER"], "https://mboost.me/"));//e.g. add https://linkvertise.com/ - in order to prevent people from skipping the linkvertise link
+checkforbypass(strpos($_SERVER["HTTP_REFERER"], "https://example.com/"));//e.g. add https://linkvertise.com/ - in order to prevent people from skipping the linkvertise link
