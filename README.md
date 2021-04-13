@@ -2,7 +2,7 @@
 This will prevent people from skipping your valuable ad-links in order for your business to gain the maximum amount of money.
 
 # Creators hate it
-People can simply share the target destination url or visit the origin url directly without being stopped. Thus there is an easy way for people to avoid your valuable ad-link. We don't want that.
+People can simply share the target destination url or visit the origin url directly without being stopped. Thus there is an easy way for people to avoid your valuable ad-links. We don't want that.
 
 # How to stop it from happening
 The best way to do this is by checking for the referal header, this will check if the user has visited the from us wanted ad-link before accessing our page.
